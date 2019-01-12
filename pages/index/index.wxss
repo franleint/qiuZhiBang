@@ -1,0 +1,45 @@
+@import "../../styles/styles.wxss";
+page{
+  background-color: #16a7b2;
+}
+.title{
+  width: 495rpx;
+  height: 133rpx;
+}
+.title-image{
+  float: left;
+  width: 133rpx;
+  height: 133rpx;
+}
+.title-name{
+  padding-top: 34rpx;
+  padding-bottom: 34rpx;
+  float: left;
+  font-size: 57rpx;
+  color: #fcfdfe;
+  font-family: 'DFPYuanW5-GB';
+  text-shadow: 1.41px 1.41px 9.7px rgba(7,0,2,0.21);
+}
+.login-view{
+  margin-top: 180rpx;
+  width: 350rpx;
+  height: 95rpx;
+  background-color: #ffffff;
+  border-radius: 10rpx;
+  box-shadow: 8.36px 9.96px 14.94px rgba(7,0,2,0.31);
+
+}
+.login-image{
+  float: left;
+  width: 57rpx;
+  height: 54rpx;
+  margin-right: 30rpx;
+  padding: 20rpx 0;
+}
+.login-name{
+  padding: 14rpx 0;
+  float: left;
+  font-size: 28rpx;
+  color: #000000;
+  font-family: "DFPYuanW5-GB";
+}

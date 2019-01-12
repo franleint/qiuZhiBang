@@ -1,0 +1,12 @@
+<!--pages/authorize/authorize.wxml-->
+<view class="container" wx:if="{{canIUse}}">
+  <view class='title'>
+    <image src='../../images/title.jpg' class='title-image'></image>
+    <text class='title-name'>柚子求职帮</text>
+  </view>
+  <button class='login-view' open-type='getUserInfo' bindgetuserinfo='bindGetUserInfo'>
+    <image src='../../images/wechat.png' class='login-image'></image>
+    <text class='login-name'>微信一键授权</text>
+  </button> 
+</view>
+

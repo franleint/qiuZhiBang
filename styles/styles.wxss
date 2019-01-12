@@ -1,0 +1,8 @@
+/* @font-face{
+  font-family: 'DFPYuanW3-GB';
+  src: url('../../fonts/DFW3(P).TTF')
+} */
+@font-face{
+  font-family: 'DFPYuanW5-GB';
+  src: url('../../fonts/DFW5(P).TTF')
+}

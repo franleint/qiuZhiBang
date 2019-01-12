@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/firstPage/firstPage"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#16a7b2",
+    "navigationBarTitleText": "柚子求职",
+    "navigationBarTextStyle": "#fcfdfe"
+  }
+}
